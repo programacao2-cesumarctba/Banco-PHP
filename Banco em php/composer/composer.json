@@ -1,0 +1,19 @@
+{
+    "name": "joao/geralink",
+    "description": "gerencia dependencias",
+    "authors": [
+        {
+            "name": "gera",
+            "email": "joao-pedro-f@hotmail.com"
+        }
+    ],
+    "require": {},
+
+	"autoload":{
+	"psr-4":{
+	"App\\": "src/"
+
+	}
+
+	}
+}
